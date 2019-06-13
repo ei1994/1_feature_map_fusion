@@ -1,0 +1,6 @@
+python3 train_nature_map32_diff.py
+python3 train_nature_map32.py
+python3 train_nature_map32_no.py
+python3 train_nature_2ch.py
+python3 train_nature_tensor.py
+python3 train_nature_tensor_no.py
